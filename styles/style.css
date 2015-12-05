@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-image: url("../loreal.jpg");
+  background-size: cover;
+
+}
+
+
+img {
+
+border-radius:20px;
+border:10px solid black;
+
+}
+
+ol {
+  list-style-position: inside;
+  font-family: arial;
+  font-color: blue;
+  }
+
+nav {
+background-color:blue;
+}
+
+.nav-items {
+  display:inline;
+  margin: 10px;
+  color: white;
+  font-family:arial;
+}
+
+#about {
+width: 48%;
+display: inline-block;
+border-style:gray;
+}
+
+#music {
+width: 48%;
+display: inline-block;
+border:gray;
+}
